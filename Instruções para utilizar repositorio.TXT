@@ -1,0 +1,20 @@
+# INSTRUÇÕES BÁSICAS PARA UTILIZAÇÃO DE REPOSITÓRIO
+
+Sequência para incluir um novo arquivo no repositório
+
+Mover do repositório para o computador:
+
+Criar as pastas do projeto.
+git clone <endereço copiado do GitHub que eu queira clonar>
+
+
+Mover do computador para o repositório:
+
+Com a pasta criada e um arquivo criado,
+
+git add . <para adicionar todos os arquivos>
+
+git commit -m “mensagem importante, comentário”
+
+git push origin main <enviando os commits para o repositório>
+
